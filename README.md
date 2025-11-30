@@ -1,5 +1,5 @@
 # Last Update Logs (add new entries at the top)
 
-Date: 30/Nov/2025
-Time: 7:57pm
+<p>Date: 30/Nov/2025<br>
+Time: 7:57pm<br>
 Author: Pavel
